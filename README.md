@@ -1,12 +1,6 @@
 ## Hi, I'm MD Abdullah Al Nasim! 👋
 
 ### I'm a Research Specialist who loves to learn new technology all the times.
-- 💼 Working as Software Engineer at [LEADS](https://www.leads.com.bd/)
-- 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
-- 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
-- 👯 I’m looking to collaborate on Frontend Development
-- 🤔 I’m looking for help with Microservice
-- 💬 Ask me about .Net or any tech related stuff
 
 - 🔭 I’m currently working on Deep Learning Project
 - 🌱 I’m currently learning DeepSpeech2 Model
