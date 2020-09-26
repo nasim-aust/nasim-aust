@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DeepSpeech2 Model
 - 💬 Ask me about anything you want to know! 😎
 - 📫 How to reach me: :e-mail: nasim@pioneeralpha.com 
-- ⚡ Fun fact: I love to watch Anime and Tv series a lot! :heart:
+- ⚡ Fun fact: I like to play Chess and badminton; travelling is my hobby
 
 ### Connect with me:
 
