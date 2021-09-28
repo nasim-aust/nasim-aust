@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sites.google.com/view/alnasim/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="csenasim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.abdullahnasim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="alnasim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="csenasim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
 
 
-[website]: https://sites.google.com/view/alnasim/
-[linkedin]: https://www.linkedin.com/in/csenasim/
+[website]: https://www.abdullahnasim.com
+[linkedin]: https://www.linkedin.com/in/alnasim/
 [twitter]: https://twitter.com/csenasim
