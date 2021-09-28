@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on Deep Learning Project
 - 🌱 I’m currently learning DeepSpeech2 Model
-- 💬 Ask me about anything you want to know! 😎
-- 📫 How to reach me: :e-mail: nasim@pioneeralpha.com 
-- ⚡ Fun fact: I like to play Chess and badminton; travelling is my hobby
+- ⚡ Hobby fact: I like to play Chess and badminton; travelling is my hobby
 
 ### Connect with me:
 
