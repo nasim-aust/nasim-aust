@@ -18,4 +18,4 @@
 
 [website]: https://www.abdullahnasim.com
 [linkedin]: https://www.linkedin.com/in/alnasim/
-[twitter]: https://twitter.com/csenasim
+[twitter]: https://twitter.com/mdabdullahnasim
